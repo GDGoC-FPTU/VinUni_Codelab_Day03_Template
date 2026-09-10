@@ -1,0 +1,32 @@
+[
+  {
+    "id": "TC01",
+    "query": "Tìm cho tôi chuyến bay từ HAN đi SGN dưới 2 triệu, rồi cho biết thời tiết SGN nên mặc gì?",
+    "expected_tools": ["get_flight_info", "get_weather_forecast"],
+    "category": "multi_step_flight_weather"
+  },
+  {
+    "id": "TC02",
+    "query": "Có chuyến bay nào từ HAN đi DAD giá dưới 1.5 triệu không?",
+    "expected_tools": ["get_flight_info"],
+    "category": "single_step_flight"
+  },
+  {
+    "id": "TC03",
+    "query": "Thời tiết ở Đà Nẵng DAD hiện tại thế nào?",
+    "expected_tools": ["get_weather_forecast"],
+    "category": "single_step_weather"
+  },
+  {
+    "id": "TC04",
+    "query": "Chính sách đổi trả vé máy bay Vinpearl như thế nào?",
+    "expected_tools": [],
+    "category": "faq_chatbot_baseline"
+  },
+  {
+    "id": "TC05",
+    "query": "Tìm cho tôi chuyến bay từ SGN đi HAN dưới 500k.",
+    "expected_tools": ["get_flight_info"],
+    "category": "no_results_fallback"
+  }
+]

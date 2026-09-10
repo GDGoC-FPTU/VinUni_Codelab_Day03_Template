@@ -1,0 +1,23 @@
+{
+  "SGN": {
+    "city": "TP. Hồ Chí Minh",
+    "temperature_c": 32,
+    "condition": "Rainy",
+    "humidity_pct": 85,
+    "recommendation": "Mang ô/dù, áo mưa nhẹ, quần áo thoáng mát."
+  },
+  "HAN": {
+    "city": "Hà Nội",
+    "temperature_c": 22,
+    "condition": "Cloudy",
+    "humidity_pct": 70,
+    "recommendation": "Áo khoác mỏng, trang phục thu đông."
+  },
+  "DAD": {
+    "city": "Đà Nẵng",
+    "temperature_c": 28,
+    "condition": "Sunny",
+    "humidity_pct": 60,
+    "recommendation": "Kem chống nắng, kính râm, mũ rộng vành."
+  }
+}

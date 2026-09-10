@@ -1,0 +1,34 @@
+[
+  {
+    "flight_number": "VN213",
+    "origin": "HAN",
+    "destination": "SGN",
+    "departure_time": "08:00",
+    "price_vnd": 1850000,
+    "airline": "Vietnam Airlines"
+  },
+  {
+    "flight_number": "VJ151",
+    "origin": "HAN",
+    "destination": "SGN",
+    "departure_time": "11:30",
+    "price_vnd": 1450000,
+    "airline": "Vietjet Air"
+  },
+  {
+    "flight_number": "QH202",
+    "origin": "HAN",
+    "destination": "DAD",
+    "departure_time": "09:15",
+    "price_vnd": 1200000,
+    "airline": "Bamboo Airways"
+  },
+  {
+    "flight_number": "VN110",
+    "origin": "DAD",
+    "destination": "HAN",
+    "departure_time": "16:45",
+    "price_vnd": 1350000,
+    "airline": "Vietnam Airlines"
+  }
+]
