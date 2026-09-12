@@ -3,7 +3,7 @@
 Thư mục này chứa mã nguồn mẫu dành cho học viên thực hiện Lab #3.
 
 ## 📁 Các File Trong Thư Mục
-* `template.py`: File chính chứa cấu trúc mã nguồn với các vị trí `TODO 1` -> `TODO 4` cần học viên hoàn thiện.
+* `template.py`: File chính chứa cấu trúc mã nguồn với các vị trí `TODO 1` -> `TODO 5` cần học viên hoàn thiện.
 * `tools.py`: Định nghĩa danh mục công cụ (`get_flight_info`, `get_weather_forecast`) và Registry mapping.
 * `requirements.txt`: Các thư viện Python phụ thuộc.
 
