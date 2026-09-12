@@ -62,7 +62,7 @@ Trong mỗi bước lặp:
 
 ---
 
-### 4. Milestone 4: Safegaurds & Trace Logging
+### 4. Milestone 4: Safeguards & Trace Logging
 Để phòng ngừa sự cố lặp vô tận, luôn kiểm tra điều kiện ngắt:
 ```python
 if iteration >= self.max_iterations:
